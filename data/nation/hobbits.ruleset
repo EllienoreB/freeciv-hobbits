@@ -32,8 +32,11 @@ civilwar_nations="Hobbits"
 cities =
   "Michel Delving", "Hobbiton", "Buckleburry", "Bywater",
   "Tuckburrow", "Longbottom", "Sackville", "Little Delving",
-  "Long Cleeve", "Waymeet", "Gamwich", "Willowbottom",
+  "Long Cleeve", "Waymoot", "Gamwich", "Willowbottom",
   "Needlehole", "Greenholm", "Hardbottle", "Standelf",
   "Overhill", "Frogmorton", "the Yale", "Tookbank",
   "Greenfields", "Oatbarton", "Tighfield", "Dwalling",
-  "the White Towers", "Elostirion", "Undertowers"
+  "the White Towers", "Elostirion", "Undertowers", "Rushey",
+  "Haysend", "Newbury", "Budgeford", "Dwaling", "Bree",
+  "Archet", "Combe", "Bag End", "Whitfurrows", "Staddle",
+  "Brokenborings", "Nobottle", "Whitwell", "Scary", "Weathertop"
