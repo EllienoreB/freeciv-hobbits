@@ -3,7 +3,7 @@
 name=_("Hobbit")
 plural=_("?plural:Hobbits")
 groups="Imaginary"
-legend=_("Hobbits really are amazing creatures, as I have said before. You can learn all that there is to know about their ways in a month, and yet after a hundred years they can still surprise you at a pinch. —Gandalf!")
+legend=_("Hobbits really are amazing creatures, as I have said before. You can learn all that there is to know about their ways in a month, and yet after a hundred years they can still surprise you at a pinch. -Gandalf")
 
 leaders = {
  "name",                        "sex"
@@ -26,7 +26,8 @@ city_style = "European"
 init_techs=""
 init_buildings=""
 init_units=""
-civilwar_nations=""
+
+civilwar_nations="Hobbits"
 
 cities =
   "Michel Delving", "Hobbiton", "Buckleburry", "Bywater",
@@ -35,7 +36,4 @@ cities =
   "Needlehole", "Greenholm", "Hardbottle", "Standelf",
   "Overhill", "Frogmorton", "the Yale", "Tookbank",
   "Greenfields", "Oatbarton", "Tighfield", "Dwalling",
-  "the White Towers", "Elostirion", "Undertowers", "Eastfarthing",
-  "Southfarthing", "Northfarthing", "Westfarthing", "Buckland", 
-  "Westmarch", "Bridgefields", "Green Hill Country", "Marish",
-  "Tookland", "Woody End", "Proudfoot Delving", "Greenhill Delving" 
+  "the White Towers", "Elostirion", "Undertowers"
